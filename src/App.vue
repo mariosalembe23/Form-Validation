@@ -78,7 +78,7 @@ export default {
 
 <template>
   <main
-    class="w-full h-screen flex items-center justify-center subpixel-antialiased"
+    class="w-full md:h-screen flex items-center justify-center subpixel-antialiased"
   >
     <section
       class="w-full max-w-3xl grid grid-cols-1 md:grid-cols-5 gap-4 divide-x divide-zinc-300"
